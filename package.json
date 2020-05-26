@@ -2,7 +2,7 @@
   "name": "ritual-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pandey03up.github.io//solar",
+  "homepage": "https://pandey03up.github.io/solar",
   "engines": {
     "node": "12.6.0",
     "npm" : "6.13.4"
