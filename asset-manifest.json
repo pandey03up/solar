@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "//solar/static/css/main.a6358f88.chunk.css",
+    "main.js": "//solar/static/js/main.7a80ada6.chunk.js",
+    "main.js.map": "//solar/static/js/main.7a80ada6.chunk.js.map",
+    "runtime-main.js": "//solar/static/js/runtime-main.ae07b464.js",
+    "runtime-main.js.map": "//solar/static/js/runtime-main.ae07b464.js.map",
+    "static/js/2.0321e0cc.chunk.js": "//solar/static/js/2.0321e0cc.chunk.js",
+    "static/js/2.0321e0cc.chunk.js.map": "//solar/static/js/2.0321e0cc.chunk.js.map",
+    "index.html": "//solar/index.html",
+    "precache-manifest.00ed88a6df00dab6178ebed6c734997e.js": "//solar/precache-manifest.00ed88a6df00dab6178ebed6c734997e.js",
+    "service-worker.js": "//solar/service-worker.js",
+    "static/css/main.a6358f88.chunk.css.map": "//solar/static/css/main.a6358f88.chunk.css.map",
+    "static/js/2.0321e0cc.chunk.js.LICENSE.txt": "//solar/static/js/2.0321e0cc.chunk.js.LICENSE.txt",
+    "static/media/arc-reacter.jpg": "//solar/static/media/arc-reacter.0f5d6e7e.jpg",
+    "static/media/auth.jpg": "//solar/static/media/auth.4243cc10.jpg",
+    "static/media/code.jpg": "//solar/static/media/code.811e09e7.jpg",
+    "static/media/wifi.jpg": "//solar/static/media/wifi.4252a5b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae07b464.js",
+    "static/js/2.0321e0cc.chunk.js",
+    "static/css/main.a6358f88.chunk.css",
+    "static/js/main.7a80ada6.chunk.js"
+  ]
+}
